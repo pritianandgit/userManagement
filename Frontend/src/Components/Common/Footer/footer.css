@@ -1,0 +1,9 @@
+.footer{
+    height: 10%;
+    background-color: grey !important;
+}
+
+.footerText{
+    color: #ffffff;
+    font-size: 36px;
+}

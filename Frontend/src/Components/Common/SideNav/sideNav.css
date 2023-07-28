@@ -1,0 +1,27 @@
+.sideBar-menu{
+    margin-top: 20px;
+}
+
+.sidenav {
+    height: 80vh !important;
+    background-color: #26abff;
+}
+.ant-menu-item .menu-icon{
+    height: 40px;
+    width: 40px;
+}
+
+.menuItem{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.menuItem :hover{
+    background-color: #009dff;
+    color: #000000;
+}
+
+.menu-item-row{
+    font-size: 20px;
+    font-weight: bold;
+}

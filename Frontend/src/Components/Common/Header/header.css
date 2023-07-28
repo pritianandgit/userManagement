@@ -1,0 +1,26 @@
+
+
+.headerText{
+    color: #000000; 
+    font-size: 36px;
+}
+
+.innobitLogo{
+    height: 75px;
+    width: 75px;
+}
+
+
+.logout-btn{
+    border-radius: 10px;
+    background-color: #009dff;
+    box-shadow: 5px 5px 36px #d9f1ff;
+    height: 40px;
+    color: #ffffff;
+}
+.logout-btn:hover{
+    background-color:#ffffff;
+    color: #009dff;
+    font-weight: bold;
+}
+
